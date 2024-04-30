@@ -1,2 +1,3 @@
-# GrassWeed_Detector
- Ridderzuring and Grassweed detector using Detectron2
+## Grass Weed and Ridderzuring Detection using Computer Vision
+
+![Bot Screenshot](detect.png)
